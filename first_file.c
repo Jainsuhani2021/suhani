@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Hello world");
+  printf("server changes");
   return 0;
 }
